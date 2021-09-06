@@ -49,6 +49,7 @@ while(i<=n):
         print("Invalid key")
         continue
     i+=1
+print("Updated stock list")
 for hg in record.items():
     print(hg)
     
